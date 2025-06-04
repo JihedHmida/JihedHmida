@@ -9,7 +9,7 @@
 💡 As a self-taught enthusiast, I love exploring new technologies and crafting innovative software solutions and quick hacks.
 
 🚀&nbsp;I’m currently working on:
-- Creating npm packages for Angular, including [ngx-storage-utils](https://www.npmjs.com/package/ngx-storage-utils) and [ngx-seo-utils](https://www.npmjs.com/package/ngx-seo-utils).
+- Creating npm packages for Angular, including [ngx-storage-utils](https://www.npmjs.com/package/ngx-storage-utils) , [ngx-seo-utils](https://www.npmjs.com/package/ngx-seo-utils) , [jh-multi-lib-schematic](https://www.npmjs.com/package/jh-multi-lib-schematic) and [ngx-light-modal](https://www.npmjs.com/package/ngx-light-modal).
 
 🌱&nbsp;I’m also developing packages for Spring Boot, including:
   - **Image compression**: Aiming to reduce file sizes and improve performance.
